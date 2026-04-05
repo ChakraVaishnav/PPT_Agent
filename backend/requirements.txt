@@ -1,0 +1,31 @@
+# --- API ---
+fastapi
+uvicorn
+
+# --- Agent / LLM ---
+langchain
+langchain-core
+langchain-community
+
+langchainhub
+langchain-huggingface
+langchain-mcp-adapters
+
+transformers
+accelerate
+huggingface-hub
+
+# --- MCP ---
+fastmcp
+
+# --- PPT Generation ---
+python-pptx
+
+# --- Utils ---
+pydantic
+requests
+python-dotenv
+tqdm
+
+# --- Optional (better parsing / structure) ---
+orjson
